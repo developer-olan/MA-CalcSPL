@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DotCalc {
+public class PowCalc {
     private static final int number1 = 12345;
     private static final int number2 = 2345;
     private static Scanner sc = new Scanner(System.in);
